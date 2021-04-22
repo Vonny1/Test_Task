@@ -1,0 +1,72 @@
+D:\TaskManager\WPF_TaskManager\bin\Debug\WPF_TaskManager.exe.config
+D:\TaskManager\WPF_TaskManager\bin\Debug\WPF_TaskManager.exe
+D:\TaskManager\WPF_TaskManager\bin\Debug\WPF_TaskManager.pdb
+D:\TaskManager\WPF_TaskManager\obj\Debug\WPF_TaskManager.csprojAssemblyReference.cache
+D:\TaskManager\WPF_TaskManager\obj\Debug\MainWindow.g.cs
+D:\TaskManager\WPF_TaskManager\obj\Debug\App.g.cs
+D:\TaskManager\WPF_TaskManager\obj\Debug\WPF_TaskManager_MarkupCompile.cache
+D:\TaskManager\WPF_TaskManager\obj\Debug\WPF_TaskManager_MarkupCompile.lref
+D:\TaskManager\WPF_TaskManager\obj\Debug\MainWindow.baml
+D:\TaskManager\WPF_TaskManager\obj\Debug\WPF_TaskManager.g.resources
+D:\TaskManager\WPF_TaskManager\obj\Debug\WPF_TaskManager.Properties.Resources.resources
+D:\TaskManager\WPF_TaskManager\obj\Debug\WPF_TaskManager.csproj.GenerateResource.cache
+D:\TaskManager\WPF_TaskManager\obj\Debug\WPF_TaskManager.csproj.CoreCompileInputs.cache
+D:\TaskManager\WPF_TaskManager\obj\Debug\WPF_TaskManager.exe
+D:\TaskManager\WPF_TaskManager\obj\Debug\WPF_TaskManager.pdb
+D:\TaskManager\WPF_TaskManager\bin\Debug\Newtonsoft.Json.dll
+D:\TaskManager\WPF_TaskManager\bin\Debug\Newtonsoft.Json.xml
+D:\TaskManager\WPF_TaskManager\obj\Debug\WPF_TaskManager.csproj.CopyComplete
+G:\efimov\TaskManager\WPF_TaskManager\bin\Debug\WPF_TaskManager.exe.config
+G:\efimov\TaskManager\WPF_TaskManager\bin\Debug\WPF_TaskManager.exe
+G:\efimov\TaskManager\WPF_TaskManager\bin\Debug\WPF_TaskManager.pdb
+G:\efimov\TaskManager\WPF_TaskManager\bin\Debug\Newtonsoft.Json.dll
+G:\efimov\TaskManager\WPF_TaskManager\bin\Debug\Newtonsoft.Json.xml
+G:\efimov\TaskManager\WPF_TaskManager\obj\Debug\WPF_TaskManager.csprojAssemblyReference.cache
+G:\efimov\TaskManager\WPF_TaskManager\obj\Debug\MainWindow.g.cs
+G:\efimov\TaskManager\WPF_TaskManager\obj\Debug\App.g.cs
+G:\efimov\TaskManager\WPF_TaskManager\obj\Debug\WPF_TaskManager_MarkupCompile.cache
+G:\efimov\TaskManager\WPF_TaskManager\obj\Debug\WPF_TaskManager_MarkupCompile.lref
+G:\efimov\TaskManager\WPF_TaskManager\obj\Debug\MainWindow.baml
+G:\efimov\TaskManager\WPF_TaskManager\obj\Debug\WPF_TaskManager.g.resources
+G:\efimov\TaskManager\WPF_TaskManager\obj\Debug\WPF_TaskManager.Properties.Resources.resources
+G:\efimov\TaskManager\WPF_TaskManager\obj\Debug\WPF_TaskManager.csproj.GenerateResource.cache
+G:\efimov\TaskManager\WPF_TaskManager\obj\Debug\WPF_TaskManager.csproj.CoreCompileInputs.cache
+G:\efimov\TaskManager\WPF_TaskManager\obj\Debug\WPF_TaskManager.csproj.CopyComplete
+G:\efimov\TaskManager\WPF_TaskManager\obj\Debug\WPF_TaskManager.exe
+G:\efimov\TaskManager\WPF_TaskManager\obj\Debug\WPF_TaskManager.pdb
+D:\TaskManager\Новая папка\WPF_TaskManager\bin\Debug\WPF_TaskManager.exe.config
+D:\TaskManager\Новая папка\WPF_TaskManager\bin\Debug\WPF_TaskManager.exe
+D:\TaskManager\Новая папка\WPF_TaskManager\bin\Debug\WPF_TaskManager.pdb
+D:\TaskManager\Новая папка\WPF_TaskManager\bin\Debug\Newtonsoft.Json.dll
+D:\TaskManager\Новая папка\WPF_TaskManager\bin\Debug\Newtonsoft.Json.xml
+D:\TaskManager\Новая папка\WPF_TaskManager\obj\Debug\MainWindow.g.cs
+D:\TaskManager\Новая папка\WPF_TaskManager\obj\Debug\App.g.cs
+D:\TaskManager\Новая папка\WPF_TaskManager\obj\Debug\WPF_TaskManager_MarkupCompile.cache
+D:\TaskManager\Новая папка\WPF_TaskManager\obj\Debug\WPF_TaskManager_MarkupCompile.lref
+D:\TaskManager\Новая папка\WPF_TaskManager\obj\Debug\MainWindow.baml
+D:\TaskManager\Новая папка\WPF_TaskManager\obj\Debug\WPF_TaskManager.g.resources
+D:\TaskManager\Новая папка\WPF_TaskManager\obj\Debug\WPF_TaskManager.Properties.Resources.resources
+D:\TaskManager\Новая папка\WPF_TaskManager\obj\Debug\WPF_TaskManager.csproj.GenerateResource.cache
+D:\TaskManager\Новая папка\WPF_TaskManager\obj\Debug\WPF_TaskManager.csproj.CoreCompileInputs.cache
+D:\TaskManager\Новая папка\WPF_TaskManager\obj\Debug\WPF_TaskManager.csproj.CopyComplete
+D:\TaskManager\Новая папка\WPF_TaskManager\obj\Debug\WPF_TaskManager.exe
+D:\TaskManager\Новая папка\WPF_TaskManager\obj\Debug\WPF_TaskManager.pdb
+D:\TaskManager\Новая папка\WPF_TaskManager\obj\Debug\WPF_TaskManager.csprojAssemblyReference.cache
+G:\efimov\Projects\Archive\WPF_TaskManager\bin\Debug\WPF_TaskManager.exe.config
+G:\efimov\Projects\Archive\WPF_TaskManager\bin\Debug\WPF_TaskManager.exe
+G:\efimov\Projects\Archive\WPF_TaskManager\bin\Debug\WPF_TaskManager.pdb
+G:\efimov\Projects\Archive\WPF_TaskManager\bin\Debug\Newtonsoft.Json.dll
+G:\efimov\Projects\Archive\WPF_TaskManager\bin\Debug\Newtonsoft.Json.xml
+G:\efimov\Projects\Archive\WPF_TaskManager\obj\Debug\WPF_TaskManager.csprojAssemblyReference.cache
+G:\efimov\Projects\Archive\WPF_TaskManager\obj\Debug\MainWindow.g.cs
+G:\efimov\Projects\Archive\WPF_TaskManager\obj\Debug\App.g.cs
+G:\efimov\Projects\Archive\WPF_TaskManager\obj\Debug\WPF_TaskManager_MarkupCompile.cache
+G:\efimov\Projects\Archive\WPF_TaskManager\obj\Debug\WPF_TaskManager_MarkupCompile.lref
+G:\efimov\Projects\Archive\WPF_TaskManager\obj\Debug\MainWindow.baml
+G:\efimov\Projects\Archive\WPF_TaskManager\obj\Debug\WPF_TaskManager.g.resources
+G:\efimov\Projects\Archive\WPF_TaskManager\obj\Debug\WPF_TaskManager.Properties.Resources.resources
+G:\efimov\Projects\Archive\WPF_TaskManager\obj\Debug\WPF_TaskManager.csproj.GenerateResource.cache
+G:\efimov\Projects\Archive\WPF_TaskManager\obj\Debug\WPF_TaskManager.csproj.CoreCompileInputs.cache
+G:\efimov\Projects\Archive\WPF_TaskManager\obj\Debug\WPF_TaskManager.csproj.CopyComplete
+G:\efimov\Projects\Archive\WPF_TaskManager\obj\Debug\WPF_TaskManager.exe
+G:\efimov\Projects\Archive\WPF_TaskManager\obj\Debug\WPF_TaskManager.pdb
